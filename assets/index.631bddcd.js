@@ -1,0 +1,1 @@
+import{_ as s}from"./index.971d7d84.js";import{r as n,b as o,h as r,F as t,o as c}from"./vendor.59325d81.js";const a={};function i(m,p){const e=n("m-progress");return c(),o(t,null,[r(e,{isAnimation:"",percentage:60}),r(e,{isAnimation:"",type:"circle",percentage:100,status:"success"})],64)}var l=s(a,[["render",i]]);export{l as default};
